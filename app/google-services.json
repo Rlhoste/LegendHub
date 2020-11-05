@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291901967936",
+    "firebase_url": "https://multiplayerlegend-43814.firebaseio.com",
+    "project_id": "multiplayerlegend-43814",
+    "storage_bucket": "multiplayerlegend-43814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291901967936:android:e9a00eee6e5f4c523019a5",
+        "android_client_info": {
+          "package_name": "com.example.multiplayerlegend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291901967936-ehe1odlqhn10domg4g1rs0ikqsdgktb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCN2lgpDIKd0uAtpohVURuq0d3EYXq_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291901967936-ehe1odlqhn10domg4g1rs0ikqsdgktb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
