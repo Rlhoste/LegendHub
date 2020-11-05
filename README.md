@@ -11,12 +11,12 @@ Connect to the firebase database to get all informations on database.
 
 Push on a new branch
 
-Assuming you've already clone the repo
+Assuming you've already clone the repo :
 
-git checkout -b "branchname"
+- git checkout -b "branchname"
 
-git add -A
+- git add -A
 
-git commit -m "Your commit"
+- git commit -m "Your commit"
 
-git push origin branchname
+- git push origin branchname
