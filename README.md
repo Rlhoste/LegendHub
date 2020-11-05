@@ -9,16 +9,16 @@ Connect to the firebase database to get all informations on database.
 # Architecture
 
 One script file for each views
-- Sign in
-- Join room
-- Wait your friends
+- 1 Sign in
+- 2 Join room
+- 3 Wait your friends
 
 **then play !**
 
-- Describe the photo with a funny legend
-- Choose the winner
-- Show his response with the photo
-- Show scoreboard
+- 4 Describe the photo with a funny legend
+- 5 Choose the winner
+- 6 Show his response with the photo
+- 7 Show scoreboard
 
 # How to contribute
 
