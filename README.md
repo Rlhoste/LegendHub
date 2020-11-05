@@ -4,7 +4,9 @@ game developped with android studio and firebase
 
 # How to setup project
 
-Open project on Android studio and get a version of android higher than >7 on your VM.
+- git clone https://github.com/Rlhoste/LegendHub.git
+
+- Open project on Android studio and get a version of android higher than >7 on your VM.
 Connect to the firebase database to get all informations on database.
 # Architecture
 
