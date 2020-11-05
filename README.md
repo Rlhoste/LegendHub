@@ -12,7 +12,9 @@ One script file for each views
 - Sign in
 - Join room
 - Wait your friends
-then play ! 
+
+**then play !**
+
 - Describe the photo with a funny legend
 - Choose the winner
 - Show his response with the photo
